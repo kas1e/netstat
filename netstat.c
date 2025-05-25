@@ -29,7 +29,6 @@
 #include <proto/exec.h>
 #include <proto/dos.h>
 #include <proto/bsdsocket.h>
-#include <proto/socket.h>
 
 #include <sys/types.h>
 #include <sys/socket.h>
